@@ -1,0 +1,7 @@
+El proyecto se encuentra en el directorio adjunto en formato pdf y se compila
+mediante "g++ main.cc -o main"
+Y para su ejecución puede probar con emplear un fichero 
+./main infile.txt
+
+Aunque para más detalles respecto a la ejecución recomiendo emplear 
+./main --help
